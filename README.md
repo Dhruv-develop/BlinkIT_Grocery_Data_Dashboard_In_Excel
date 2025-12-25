@@ -1,23 +1,22 @@
 📊 Blinkit Sales Dashboard (Excel)
+This project is an interactive sales dashboard created using Microsoft Excel as part of my Data Science learning journey.
+The dashboard provides clear insights into sales performance, outlet trends, and product analysis using interactive visuals and filters.
 
-An interactive Excel dashboard created as part of my Data Science learning journey to analyze Blinkit sales data and generate business insights using visual analytics.
 
-
-🔍 Key Features
-
-Sales KPIs (Total Sales, Avg Sales, Ratings)
-Outlet-wise and location-wise analysis
-Product and fat-content insights
-Interactive filters and slicers
-
+🔍 Key Insights Covered
+💰 Total Sales
+📊 Average Sales
+📦 Number of Items
+⭐ Average Customer Rating
+🏬 Sales by Outlet Size & Location
+🥗 Product-wise and Fat Content Analysis
+📅 Outlet Establishment Trend over the years
 
 🛠 Tools Used
-
 Microsoft Excel
-Pivot Tables & Charts
+Pivot Tables & Pivot Charts
 Slicers & Filters
+Excel Formulas
 
-
-🎥 Demo
-
-A short demo video is available on my LinkedIn profile.
+🎥 Demo Video
+(https://www.linkedin.com/posts/dhruv-rapariya_datascience-dataanalytics-excel-activity-7409208461550419971-BDoa/)
