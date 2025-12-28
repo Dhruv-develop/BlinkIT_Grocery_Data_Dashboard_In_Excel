@@ -4,19 +4,19 @@ The dashboard provides clear insights into sales performance, outlet trends, and
 
 
 ## 🔍 Key Insights Covered
-💰 Total Sales
-📊 Average Sales
-📦 Number of Items
-⭐ Average Customer Rating
-🏬 Sales by Outlet Size & Location
-🥗 Product-wise and Fat Content Analysis
-📅 Outlet Establishment Trend over the years
+-💰 Total Sales
+-📊 Average Sales
+-📦 Number of Items
+-⭐ Average Customer Rating
+-🏬 Sales by Outlet Size & Location
+-🥗 Product-wise and Fat Content Analysis
+-📅 Outlet Establishment Trend over the years
 
 ## 🛠 Tools Used
-Microsoft Excel
-Pivot Tables & Pivot Charts
-Slicers & Filters
-Excel Formulas
+-Microsoft Excel
+-Pivot Tables & Pivot Charts
+-Slicers & Filters
+-Excel Formulas
 
 ## 🎥 Demo Video
-(https://www.linkedin.com/posts/dhruv-rapariya_datascience-dataanalytics-excel-activity-7409208461550419971-BDoa/)
+-(https://www.linkedin.com/posts/dhruv-rapariya_datascience-dataanalytics-excel-activity-7409208461550419971-BDoa/)
